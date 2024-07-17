@@ -1,0 +1,10 @@
+# Wait 60 seconds before connecting using these details, or login to https://console.neo4j.io to validate the Aura Instance is available
+NEO4J_URI=neo4j+s://eaee26b5.databases.neo4j.io
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=izAz8qktRNB3McKR7pflNDzN-GfQqB_Gk_CNWP3iVKA
+AURA_INSTANCEID=eaee26b5
+AURA_INSTANCENAME=Instance01
+
+
+
+geopy_api = dd4936628b87400194404b4c17e390ac
